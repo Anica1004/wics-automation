@@ -1,0 +1,5 @@
+# Local clasp credentials / push state — never commit secrets
+.clasp.json
+creds.json
+token.json
+.clasprc.json
